@@ -9,7 +9,7 @@ class Header extends Component{
      <div className="header">
 
         <div className="col-12">
-    <h1>Company XYZ | User Information</h1>
+    <h1>Company XYZ || User Information</h1>
 
 </div>
     </div>
