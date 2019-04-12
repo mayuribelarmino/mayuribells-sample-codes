@@ -23,7 +23,7 @@ class Body extends Component{
                
                         <form>
     
-                            <h2>PERSONAL INFORMATION</h2>
+                            <h2> INFORMATION</h2>
                           <div className="row">
                             <div className="col-25">
                               <label for="fname">Name</label>
